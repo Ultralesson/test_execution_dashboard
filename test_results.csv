@@ -1,0 +1,10 @@
+Execution Date,Test Name,Result
+2022-01-01,Test1,Pass
+2022-01-01,Test2,Fail
+2022-01-01,Test3,Pass
+2022-01-02,Test1,Pass
+2022-01-02,Test2,Pass
+2022-01-02,Test3,Fail
+2022-01-03,Test1,Fail
+2022-01-03,Test2,Fail
+2022-01-03,Test3,Pass
